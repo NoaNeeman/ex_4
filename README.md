@@ -1,1 +1,1 @@
-# this project creates instances of animals classes.
+# This project creates instances of animals classes.
